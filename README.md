@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Kavindu Rathnayake
 
-<!--
-**sachintha9404/sachintha9404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Live GitHub Activity
 
-Here are some ideas to get you started:
+<!-- AUTO-STATS:START -->
+- **Public Original Repos:** 1
+- **Total Stars:** 0
+- **Top Languages:** **PHP** (1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recently Updated Projects
+
+| Repository | Language | Stars | Last Updated |
+| :--- | :--- | :---: | :---: |
+| [Velvet_Vogue](https://github.com/sachintha9404/Velvet_Vogue) | PHP | 0 | 2025-11-24 |
+
+<sub>Auto-updated daily via GitHub Actions • Last sync: 2026-11-22 15:56 UTC</sub>
+<!-- AUTO-STATS:END -->
